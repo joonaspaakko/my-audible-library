@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Forget James Bond. Forget Jason Bourne. Forget Jack Bauer. Meet Victor. He's an assassin - a man with no past and no surname. But when a Paris job goes spectacularly wrong, Victor finds himself running for his life across four continents, accompanied by a woman too beautiful to trust, pursued by enemies too powerful to escape.</p>"; 
