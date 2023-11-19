@@ -19,5 +19,8 @@
 	"display": "standalone",
 	"prefer_related_applications": false,
 	"start_url": "./",
-	"orientation": "any"
+	"scope": ".",
+	"orientation": "any",
+  "id": "audible.library.extractor.my.audible.library",
+  "description": "My audible library"
 }
