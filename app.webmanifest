@@ -18,9 +18,6 @@
 	"background_color": "#f29a33",
 	"display": "standalone",
 	"prefer_related_applications": false,
-	"start_url": ".",
-	"scope": ".",
-	"orientation": "any",
-  "id": "audible.library.extractor.my.audible.library",
-  "description": "My audible library"
+	"start_url": "./",
+	"orientation": "any"
 }
